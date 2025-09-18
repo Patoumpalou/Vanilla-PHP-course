@@ -1,1 +1,4 @@
-<?php include 'views/layout/template.php'; ?>
+
+
+
+<?php include 'views/homepage.php'; ?>
