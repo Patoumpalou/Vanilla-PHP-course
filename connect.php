@@ -18,28 +18,4 @@
         exit;
     }
 
-
-    // $tab = [
-    //     'name' => 'John',
-    //     'age' => 30,
-    //     'city' => 'New York'
-    // ];
-
-    // foreach ($tab as $key => $value) {
-    //     echo "Key: $key, Value: $value\n";
-    // }
-
-    // foreach ($tab as $value) {
-    //     echo " Value: $value\n";
-    // }
-
-
-//Key: name, Value: John Key: age, Value: 30 Key: city, Value: New York 
-//Value: John Value: 30 Value: New York
-
-
-    // exit;
-
-
-
 ?>
